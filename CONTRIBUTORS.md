@@ -7,4 +7,5 @@ The following people have contributed to this project.
 * Kram Repip (git is wonderful)
 * Alex Simpson (I like frogs!)
 * Sarah Williams (eeby deeby)
+* Jim Blount (I like to run)
 * Nilay Iscen (ta ta ta)
